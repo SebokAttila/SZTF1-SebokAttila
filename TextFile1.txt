@@ -1,0 +1,15 @@
+1, Melyik évben tört ki az elsõ világháború?, 1848, 1939, 1933, 1914,D, false
+2, Melyik évben volt a mohácsi csata?, 1235, 1342, 1526, 1595,C, false
+3, Hol volt az államalapítás elõtti magyarság utolsó vesztes csatája?, Augsburg, Ferihegy, Buda, Tápióbicske,A, false
+4, Ki játszotta az Isten hozta; Õrnagy úr! c. filmben az õrnagyot?, Sinkovits Imre, Latinovits Zoltán, Kádár János, Bajor Imre,B, false
+5, Hol írták alá Magyarország két harmadának elcsatolásáról szóló dokumentumot?, Brassó, Pozsony, Párizs, Trianon,D, true
+6, Melyik nem prímszám?, 1, 3, 5, 17,A, false
+7, Kinek tulajdonítják azt a mondatot hogy "A krumplileves legyen krumplileves"?, Szécheny István, Kossuth Lajos, Kádár János, Petõfi Sándor,C, false
+8, Óramutató járással megegyezõleg vagy azzal ellentétesen értelmezik fizikában a pozitív forgási irányt?, Megegyezõleg, Ellentétesen, Mindkettõ, Egyik sem,B, false
+9, Melyik isten jelképezi a tengereket és óceánokat?, Zeusz, Hádész, Poszeidón, Árész,C, false
+10, Ki írta az Iliászt?, Caligula, Marcus Aurelius, Cicero, Homérosz,D, true
+11, Melyik a legjobb metálbanda valaha?, Ghost, Metallica, Ouroboros, Meshuggah,D, false
+12, Mennyi jelenleg az ÁFA Magyarországon? (%), 1, 27, 65, 15,B, false 
+13, Mennyi jelenleg az SZJA Magyarországon? (%), 5, 25, 15, 20,C, false
+14, Hova viszik Frodóék az Egy Gyûrût?, Mordor, Megye, Rohan, Gondor,A, false
+15, ... megérett a meggy., negyvenhárom, egy, nyolc, ahol,B, false
