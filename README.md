@@ -1,0 +1,1 @@
+# SZTF1-SebokAttila
